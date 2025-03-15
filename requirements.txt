@@ -1,2 +1,7 @@
 pinecone-client 
 python-dotenv 
+openai
+pymupdf
+langchain
+sentence-transformers
+
